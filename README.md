@@ -6,7 +6,7 @@
 #cloning github
 git clone https://github.com/Soniprincy/agentic-stack-pml.git
 
-#setting environment
+##setting environment
 irm https://astral.sh/uv/install.ps1|iex
 
 uv init matscout 
