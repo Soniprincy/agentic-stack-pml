@@ -4,7 +4,7 @@ import sys
 import httpx
 import argparse
 
-#---------------------------------------------------------------------------------
+#---------------------------------------by ollama package------------------------------------------
 
 # def main():
 #     question = sys.argv[1] if len(sys.argv) > 1 else "Hello"
@@ -19,7 +19,7 @@ import argparse
 #     print(response["message"]["content"])
 #     print(f"\n[model: qwen3:4b | time: {elapsed:.2f}s]")
 
-# ---------------------------------------------------------------------------------
+# --------------------------------------by local api-------------------------------------------
 
 # def main():
 #     question = sys.argv[1] if len(sys.argv) > 1 else "Hello"
@@ -39,7 +39,7 @@ import argparse
 #     print(response.json()["message"]["content"])
 #     print(f"\n[model: qwen3:4b | time: {elapsed:.2f}s]")
 
-#---------------------------------------------------------------------------------
+#----------------------------adding flag model to run different models----------------------------------------
 
 def main():
     parser = argparse.ArgumentParser()
