@@ -31,3 +31,15 @@ uv run ollama pull qwen3:4b
 
 uv run ollama run qwen3:4b "say hello"
 
+############################ Part 2 ##################################
+
+created ask.py file inside src/matscout
+
+uv run python -m matscout.ask "what is carbon fibre"   -- for code executed my llama library
+
+uv run python -m matscout.ask "what is carbon fibre"   -- for code executed by api
+
+uv run python -m matscout.ask "what is carbon fibre" --model qwen2.5:3b # i tried 7b and 8b model but they are taking lots of time, sometimes not working.
+
+uv run python -m matscout.ask "what is carbon fibre" --model qwen3:4b  
+
