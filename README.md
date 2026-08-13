@@ -70,3 +70,5 @@ created extract.py file
  -------------------------------------------------------------------------------------------------------
 
  uv run python -m matscout.crawl
+
+ uv run python -m matscout.compare
