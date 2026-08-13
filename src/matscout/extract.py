@@ -46,7 +46,7 @@ def extract_material(text: str, source_url: str, model: str = MODEL) -> Material
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
             "format": Material.model_json_schema(),   # constrains token output
-            "options": {"temperature": 0},              # repeatable, not creative
+            "options": {"temperature": 0},              # 0 for same answer
             "stream": False,
         },
         timeout=None,
@@ -62,7 +62,7 @@ def extract_material(text: str, source_url: str, model: str = MODEL) -> Material
     except ValidationError as e:
         raise ValueError(f"Model output failed validation: {e}\nRaw: {content}") from e
 
-    material.source_url = source_url  # the model can't know this — we set it
+    material.source_url = source_url  
     return material
 
 
