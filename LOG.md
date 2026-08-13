@@ -29,7 +29,10 @@ it's sending the same kind of request that httpx sends manually.
 strength, source URL). Sent this schema to Ollama using `format=`, which
 forces the model to reply in that exact JSON shape. Parsed the reply with
 Pydantic and got a clean object back. Tested it on 5 paragraphs about
-different materials — all worked.
+different materials. I tested my sanity_check() by giving the model a made-up
+sentence saying a material has a density of 4,500,000 g/cm3, the extract_material
+return its a "valid" object but sanity_check correctly caught it and flag 
+it as too high. Set temperature = 0 to avoid different answers. — all worked.
 
 **Learned:** Even though the model always replies in the right JSON shape,
 it can still make up wrong numbers. I tested this by giving it a fake
