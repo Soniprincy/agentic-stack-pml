@@ -1,38 +1,39 @@
-## 2026-08-13
+## Part 1 — Setup
 
-**Done:** Part 2 (Python + local model) complete. Wrote ask.py two ways:
-first using the ollama package, then redone with httpx hitting
-http://localhost:11434/api/chat directly. Both produce a sensible answer
-for `uv run python ask.py "what is carbon fibre"`.
+**Done:** Installed uv, created the matscout project, added the needed
+packages (ollama, pydantic, httpx, crawl4ai). Ran crawl4ai-setup and
+crawl4ai-doctor — both worked fine. Installed Ollama and pulled the
+qwen2.5:3b model (switched from 4b because it was too slow).
 
-**Didn't understand at first:** What the ollama package was actually doing
-under the hood — rewriting the same call with raw httpx made it clear it's
-just a wrapper around a POST request to /api/chat with a messages array,
-same shape as any REST API call from JS.
-
-**Watch out (caught this myself):** Ollama has to actually be running as a
-background process before either script works — `ollama list` confirms
-which models are pulled locally.
+**Learned:** Crawl4AI needs an extra setup step (crawl4ai-setup) on top of
+just installing it with uv — it installs a browser in the background.
 
 **Time:** ~1h
 
-## 2026-08-13 (Part 3)
 
-**Done:** Part 3 (structured output) complete. Defined a Material Pydantic
-model. extract_material() sends format=Material.model_json_schema() to
-Ollama and parses the response with Material.model_validate_json(). Ran
-across all five test paragraphs (aluminium 6061, carbon fiber, E-glass,
-epoxy, titanium) — all validated into clean Material objects. Set
-temperature=0 for repeatable output.
+## Part 2 — Python + local model
 
-**Didn't understand at first:** Assumed format= alone was enough to trust
-the output. Tested this by feeding a paragraph with a fabricated density
-(4,500,000 g/cm3) — the model returned it as a perfectly valid Material
-object; schema validation passed with no complaint. That's the gap
-sanity_check() is for — valid JSON shape doesn't mean correct data.
+**Done:** Wrote ask.py to send a question to Ollama and print the answer.
+Did it two ways — first using the `ollama` package, then again using
+`httpx` to call the API directly. Both work and give a proper answer.
 
-**Question:** At what point should this kind of plausibility checking move
-into the schema itself instead of a separate
-function? 
+**Learned:** The `ollama` package is really just a shortcut — underneath,
+it's sending the same kind of request that httpx sends manually.
+
+**Time:** ~1h
+
+
+## Part 3 — Structured output
+
+**Done:** Made a Material class using Pydantic (name, density, tensile
+strength, source URL). Sent this schema to Ollama using `format=`, which
+forces the model to reply in that exact JSON shape. Parsed the reply with
+Pydantic and got a clean object back. Tested it on 5 paragraphs about
+different materials — all worked.
+
+**Learned:** Even though the model always replies in the right JSON shape,
+it can still make up wrong numbers. I tested this by giving it a fake
+huge density value, and it accepted it without complaint — so I added a
+simple check that rejects anything above 25 g/cm3 (nothing is that dense).
 
 **Time:** ~1.5h
