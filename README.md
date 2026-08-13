@@ -53,6 +53,7 @@ ollama list # it shows qwen3:4b, qwen3:8b, qwen2.5:3 models
 
 ------------------------------------------------------------------------------------------------------
 created model.py file to keep material base model
+
 created extract.py file 
 ------------------------------------------------------------------------------------------------------
 
@@ -62,4 +63,8 @@ created extract.py file
 
  ------------------------------------------------------------------------------------------------------
  created crawl.py for crawl model
+ 
  created compare.py to compare raw vs transformed data
+ -------------------------------------------------------------------------------------------------------
+
+ uv run python -m matscout.crawl
