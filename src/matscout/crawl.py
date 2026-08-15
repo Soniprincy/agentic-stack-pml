@@ -1,13 +1,15 @@
-"""Part 4 — crawling real pages: URL in, clean markdown file out."""
+"""Part 4 — crawling real pages: URL in, clean markdown files out (raw + fit + cleaned)."""
 
 import asyncio
+import re
 from pathlib import Path
 
 from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
 from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 
-DATA_DIR = Path("data")
+RAW_DIR = Path("data/raw")
+FIT_DIR = Path("data/fit")
 
 PAGES = [
     # original required five
@@ -39,22 +41,30 @@ CONFIG = CrawlerRunConfig(
     )
 )
 
+
 async def crawl_and_save(crawler: AsyncWebCrawler, name: str, url: str) -> None:
-    result = await crawler.arun(url, config=CONFIG) # before no config(pruning) just url
+    result = await crawler.arun(url, config=CONFIG)
 
-    DATA_DIR.mkdir(exist_ok=True)
-    out_path = DATA_DIR / f"{name}.md"
-    content = result.markdown.fit_markdown or result.markdown.raw_markdown
-    out_path.write_text(content, encoding="utf-8")
+    raw = result.markdown.raw_markdown or ""
+    fit = result.markdown.fit_markdown or ""
 
-    print(f"Saved {out_path} ({len(content)} chars)")
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    FIT_DIR.mkdir(parents=True, exist_ok=True)
+
+    raw_path = RAW_DIR / f"{name}.md"
+    fit_path = FIT_DIR / f"{name}.md"
+
+    raw_path.write_text(raw, encoding="utf-8")
+    fit_path.write_text(fit, encoding="utf-8")
+
+    print(f"Saved raw: {len(raw)} | fit: {len(fit)}")
 
 
 async def main():
     async with AsyncWebCrawler() as crawler:
         for name, url in PAGES:
             await crawl_and_save(crawler, name, url)
-            await asyncio.sleep(2)  #before no sleep time, never hammer a server
+            await asyncio.sleep(2)  # never hammer a server
 
 
 if __name__ == "__main__":

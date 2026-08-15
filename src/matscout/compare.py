@@ -1,75 +1,36 @@
-"""Part 4 — compare raw_markdown vs fit_markdown across all five pages."""
+"""Compare existing raw vs fit markdown files already saved on disk."""
 
-import asyncio
 from pathlib import Path
 
-from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
-from crawl4ai.content_filter_strategy import PruningContentFilter
-from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
-
-DATA_DIR = Path("data")
-RAW_DIR = DATA_DIR / "raw"
-FIT_DIR = DATA_DIR / "fit"
-
-PAGES = [
-    ("aluminium_6061", "https://en.wikipedia.org/wiki/6061_aluminium_alloy"),
-    ("carbon_fiber", "https://en.wikipedia.org/wiki/Carbon_fiber_reinforced_polymer"),
-    ("e_glass", "https://en.wikipedia.org/wiki/E-glass"),
-    ("epoxy", "https://en.wikipedia.org/wiki/Epoxy"),
-    ("titanium", "https://en.wikipedia.org/wiki/Titanium"),
-]
-
-CONFIG = CrawlerRunConfig(
-    markdown_generator=DefaultMarkdownGenerator(
-        content_filter=PruningContentFilter(
-            threshold=0.48,
-            threshold_type="fixed",
-            min_word_threshold=5,
-        )
-    )
-)
+RAW_DIR = Path("data/raw")
+FIT_DIR = Path("data/fit")
 
 
-async def crawl_and_compare(crawler: AsyncWebCrawler, name: str, url: str) -> dict:
-    result = await crawler.arun(url, config=CONFIG)
+def compare_all():
+    raw_files = sorted(RAW_DIR.glob("*.md"))
 
-    raw = result.markdown.raw_markdown or ""
-    fit = result.markdown.fit_markdown or ""
+    if not raw_files:
+        print(f"No files found in {RAW_DIR}")
+        return
 
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    FIT_DIR.mkdir(parents=True, exist_ok=True)
+    for raw_path in raw_files:
+        name = raw_path.stem  # filename without .md
+        fit_path = FIT_DIR / f"{name}.md"
 
-    (RAW_DIR / f"{name}.md").write_text(raw, encoding="utf-8")
-    (FIT_DIR / f"{name}.md").write_text(fit or raw, encoding="utf-8")
+        raw_text = raw_path.read_text(encoding="utf-8")
+        fit_text = fit_path.read_text(encoding="utf-8") if fit_path.exists() else ""
 
-    return {
-        "name": name,
-        "raw_chars": len(raw),
-        "fit_chars": len(fit),
-        "kept_pct": (100 * len(fit) / len(raw)) if raw else 0,
-    }
+        raw_len = len(raw_text)
+        fit_len = len(fit_text)
 
+        has_density_raw = "density" in raw_text.lower()
+        has_density_fit = "density" in fit_text.lower()
 
-async def main():
-    results = []
-    async with AsyncWebCrawler() as crawler:
-        for name, url in PAGES:
-            stats = await crawl_and_compare(crawler, name, url)
-            results.append(stats)
-            print(f"{name}: raw={stats['raw_chars']} chars, "
-                  f"fit={stats['fit_chars']} chars "
-                  f"({stats['kept_pct']:.0f}% kept)")
-            await asyncio.sleep(2)  # never hammer a server
+        status = "OK" if has_density_fit else "MISSING in fit"
 
-    # summary table for LOG.md
-    print("\n| Page | Raw chars | Fit chars | % kept |")
-    print("|------|-----------|-----------|--------|")
-    for r in results:
-        print(f"| {r['name']} | {r['raw_chars']} | {r['fit_chars']} | {r['kept_pct']:.0f}% |")
-
-    avg_kept = sum(r["kept_pct"] for r in results) / len(results)
-    print(f"\nAverage kept across all pages: {avg_kept:.0f}%")
+        print(f"{name:25s} | raw: {raw_len:6d} chars | fit: {fit_len:6d} chars | "
+              f"density in raw: {has_density_raw} | density in fit: {has_density_fit} ")
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    compare_all()

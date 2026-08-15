@@ -24,8 +24,6 @@ Contribute
 [ Search ](https://en.wikipedia.org/wiki/Special:Search "Search Wikipedia \[alt-f\]")
 Search
 Appearance
-Appearance
-move to sidebar hide
   * [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
   * [Create account](https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=6061+aluminium+alloy&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You are encouraged to create an account and log in; however, it is not mandatory")
   * [Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=6061+aluminium+alloy&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
@@ -37,7 +35,6 @@ Personal tools
   * [ Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=6061+aluminium+alloy&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
 
 
-Toggle the table of contents
 ## Contents
 move to sidebar hide
   * [ (Top) ](https://en.wikipedia.org/wiki/6061_aluminium_alloy)
@@ -60,6 +57,7 @@ move to sidebar hide
   * [ 10 Aluminium alloy table ](https://en.wikipedia.org/wiki/6061_aluminium_alloy#Aluminium_alloy_table)
 
 
+Toggle the table of contents
 # 6061 aluminium alloy
 6 languages
   * [Español](https://es.wikipedia.org/wiki/Aluminio_6061 "Aluminio 6061 – Spanish")
@@ -100,7 +98,6 @@ General
   * [Get shortened URL](https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F6061_aluminium_alloy)
   * [Switch to legacy parser](https://en.wikipedia.org/w/index.php?title=6061_aluminium_alloy&useparsoid=0)
   * [Expand all](https://en.wikipedia.org/wiki/6061_aluminium_alloy "Expand all collapsible elements on the current page")
-  * [Edit interlanguage links](https://www.wikidata.org/wiki/Special:EntityPage/Q4641644#sitelinks-wikipedia "Edit interlanguage links")
 
 
 Print/export 
@@ -113,6 +110,8 @@ In other projects
   * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q4641644 "Structured data on this page hosted by Wikidata \[alt-g\]")
 
 
+Appearance
+move to sidebar hide
 From Wikipedia, the free encyclopedia
 Precipitation-hardening aluminium alloy  
 | A6061 |  

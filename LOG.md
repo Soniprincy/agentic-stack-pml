@@ -44,8 +44,8 @@ simple check that rejects anything above 25 g/cm3 (nothing is that dense).
 
 ## Part 4 — crawling
 
-**Done** created a crawl.py file where i web scrap using crawl4ai. created a async model to crawl from website using asyncwebcrawler and pruning parameter. Feed five website to my model. Created a compare.py file to compare raw and transformed/fit markdown files to check how many data we kept and remove. then i fed 10 more websites to crawl with asyncio.sleep(2), that waits for 2 second for every website to crawl. yes async/await is important because real browser are slow and heavy.
+**Done** created a crawl.py file where i web scrap using crawl4ai. created a async model to crawl from website using asyncwebcrawler. Feed five website to my model. Created and compare.py file to compare raw and transformed/fit markdown files to check how many data we kept and remove. then i fed 10 more websites to crawl with asyncio.sleep(2), that runs and stop for 2 second so that we can not deceted as fraud to the website. yes async/await is important because real browser are slow and heavy.
 
-**Learned** firstly i tried crawn_and_save without pruning parameter, then it give full raw file as transformed, but when i applied pruning factor, it prune all unnecessary noises.
+**Learned** firstly i tried crawn_and_save without pruning parameter, then it give full raw file as transformed, but when i applied pruning factor, it prune all unnecessary noises. 
 
-**Didn't understand:** fit_markdown on the 304 stainless steel page dropped the tensile yield strength and density values entirely — they show up as empty in the prose ("The density is , and...") even though the infobox numbers survived. Checked raw_markdown and confirmed the values are present there but not in fit. Pruning is a density/link-ratio heuristic with no awareness that a specific span holds a needed number — it can silently drop data as easily as it drops boilerplate.
+**Didn't understand:** fit_markdown on the 304 stainless steel page dropped the tensile yield strength and density values entirely — they show up as empty in the prose ("The density is , and...") even though the infobox numbers survived. Checked raw_markdown and confirmed the values are present there but not in fit. i applied many techniques using clause but do not resolve this problem.

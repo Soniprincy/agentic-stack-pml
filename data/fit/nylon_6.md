@@ -28,14 +28,14 @@ The largest producers of polyamide 6 in Europe:
   1. Rubin, E. (2014), _Synthetic Socialism: Plastics and Dictatorship in the German Democratic Republic_. The University of North Carolina Press. 
   2. Zaharov, V.V. (2007). _Советская военная администрация в Германии 1945-1949: Деятельность Управления СВАГ по изучению достижений немецкой науки и техники в Советской зоне оккупации Германии_ _Soviet military administration in Germany 1945-1949: Activities of the SMAG Directorate for studying the achievements of German science and technology in the Soviet zone of occupation of Germany_ (in Russian). Moscow: ROSSPEN, Russian State Archive. p.65. .
   3. "[Synthesis of Modified Polyamides (Nylon 6)](http://nptel.ac.in/courses/116102010/37)", NPTEL (National Programme On Technology Enhanced Learning), retrieved May 9, 2016
-  4. ”[Polyamide Fiber Physical and Chemical Properties of Nylon 6](http://textilefashionstudy.com/polyamide-fiber-physical-and-chemical-properties-of-nylon-6/)”, textilefashionstudy.com, retrieved May 9, 2016.
+  4. ”[Polyamide Fiber Physical and Chemical Properties of Nylon 6](https://textilefashionstudy.com/polyamide-fiber-physical-and-chemical-properties-of-nylon-6/)”, textilefashionstudy.com, retrieved May 9, 2016.
   5. Tokiwa, Y.; Calabia, B. P.; Ugwu, C. U.; Aiba, S. (2009). . _International Journal of Molecular Sciences_. (9): 42. :. . .
   6. ["New Catalyst Completely Breaks Down Durable Plastic Pollution in Minutes"](https://scitechdaily.com/new-catalyst-completely-breaks-down-durable-plastic-pollution-in-minutes/). 3 December 2023.
   7. Ye, Liwei; Liu, Xiaoyang; Beckett, Kristen; Rothbaum, Jacob O.; Lincoln, Clarissa; Broadbelt, Linda J.; Kratish, Yosi; Marks, Tobin J. (2023-04-27), [_Catalyst Design to Address Nylon Plastics Recycling_](https://chemrxiv.org/engage/chemrxiv/article-details/6448089f83fa35f8f63ce256), :
   8. Ye, Liwei; Liu, Xiaoyang; Beckett, Kristen B.; Rothbaum, Jacob O.; Lincoln, Clarissa; Broadbelt, Linda J.; Kratish, Yosi; Marks, Tobin J. (January 2024). ["Catalyst metal-ligand design for rapid, selective, and solventless depolymerization of Nylon-6 plastics"](https://linkinghub.elsevier.com/retrieve/pii/S245192942300548X). . (1): 189. :. :. .
   9. (in Polish). static.grupaazoty.com.
   10. (in Polish). att.grupaazoty.com. Archived from on 2016-04-26.
-  11. ["Grupa Azoty: Nowa wytwórnia pozwoli zająć pozycję 2. producenta poliamidu w UE"](http://wyborcza.biz/Gieldy/1,132329,18861889,grupa-azoty-nowa-wytwornia-pozwoli-zajac-pozycje-2-producenthavea.html?disableRedirects=true) (in Polish). wyborcza.biz.
+  11. ["Grupa Azoty: Nowa wytwórnia pozwoli zająć pozycję 2. producenta poliamidu w UE"](https://wyborcza.biz/Gieldy/1,132329,18861889,grupa-azoty-nowa-wytwornia-pozwoli-zajac-pozycje-2-producenthavea.html?disableRedirects=true) (in Polish). wyborcza.biz.
 
 
 : 
