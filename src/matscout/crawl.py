@@ -13,22 +13,22 @@ FIT_DIR = Path("data/fit")
 
 PAGES = [
     # original required five
-    ("aluminium_6061", "https://en.wikipedia.org/wiki/6061_aluminium_alloy"),
-    ("carbon_fiber", "https://en.wikipedia.org/wiki/Carbon_fiber_reinforced_polymer"),
-    ("e_glass", "https://en.wikipedia.org/wiki/E-glass"),
-    ("epoxy", "https://en.wikipedia.org/wiki/Epoxy"),
-    ("titanium", "https://en.wikipedia.org/wiki/Titanium"),
+    # ("aluminium_6061", "https://en.wikipedia.org/wiki/6061_aluminium_alloy"),
+    # ("carbon_fiber", "https://en.wikipedia.org/wiki/Carbon_fiber_reinforced_polymer"),
+    # ("e_glass", "https://en.wikipedia.org/wiki/E-glass"),
+    # ("epoxy", "https://en.wikipedia.org/wiki/Epoxy"),
+    # ("titanium", "https://en.wikipedia.org/wiki/Titanium"),
     # extension: ten more
-    ("stainless_steel_304", "https://en.wikipedia.org/wiki/SAE_304_stainless_steel"),
-    ("hdpe", "https://en.wikipedia.org/wiki/High-density_polyethylene"),
-    ("polycarbonate", "https://en.wikipedia.org/wiki/Polycarbonate"),
-    ("kevlar", "https://en.wikipedia.org/wiki/Kevlar"),
-    ("magnesium_alloy", "https://en.wikipedia.org/wiki/Magnesium_alloy"),
-    ("copper", "https://en.wikipedia.org/wiki/Copper"),
-    ("silicon_nitride", "https://en.wikipedia.org/wiki/Silicon_nitride"),
-    ("borosilicate_glass", "https://en.wikipedia.org/wiki/Borosilicate_glass"),
-    ("nylon_6", "https://en.wikipedia.org/wiki/Nylon_6"),
-    ("cast_iron", "https://en.wikipedia.org/wiki/Cast_iron"),
+    ("stainless_steel_304", "https://en.wikipedia.org/wiki/SAE_304_stainless_steel") #,
+    # ("hdpe", "https://en.wikipedia.org/wiki/High-density_polyethylene"),
+    # ("polycarbonate", "https://en.wikipedia.org/wiki/Polycarbonate"),
+    # ("kevlar", "https://en.wikipedia.org/wiki/Kevlar"),
+    # ("magnesium_alloy", "https://en.wikipedia.org/wiki/Magnesium_alloy"),
+    # ("copper", "https://en.wikipedia.org/wiki/Copper"),
+    # ("silicon_nitride", "https://en.wikipedia.org/wiki/Silicon_nitride"),
+    # ("borosilicate_glass", "https://en.wikipedia.org/wiki/Borosilicate_glass"),
+    # ("nylon_6", "https://en.wikipedia.org/wiki/Nylon_6"),
+    # ("cast_iron", "https://en.wikipedia.org/wiki/Cast_iron"),
 ]
 
 CONFIG = CrawlerRunConfig(
@@ -36,7 +36,7 @@ CONFIG = CrawlerRunConfig(
         content_filter=PruningContentFilter(
             threshold=0.48,
             threshold_type="fixed",
-            min_word_threshold=5,
+            min_word_threshold=1, # before 5
         )
     )
 )

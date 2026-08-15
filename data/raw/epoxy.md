@@ -492,7 +492,6 @@ Hidden categories:
   * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
   * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
   * [Mobile view](https://en.wikipedia.org/w/index.php?title=Epoxy&mobileaction=toggle_view_mobile)
-  * [Edit preview settings](https://en.wikipedia.org/wiki/Epoxy)
 
 
   * [![Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
@@ -505,4 +504,3 @@ Toggle the table of contents
 Epoxy
 [ ](https://en.wikipedia.org/wiki/Epoxy) [ ](https://en.wikipedia.org/wiki/Epoxy) [ ](https://en.wikipedia.org/wiki/Epoxy) [ ](https://en.wikipedia.org/wiki/Epoxy) [ ](https://en.wikipedia.org/wiki/Epoxy) [ ](https://en.wikipedia.org/wiki/Epoxy) [ ](https://en.wikipedia.org/wiki/Epoxy)
 44 languages [ Add topic ](https://en.wikipedia.org/wiki/Epoxy)
-[](https://en.wikipedia.org/wiki/Epoxy?action=edit)

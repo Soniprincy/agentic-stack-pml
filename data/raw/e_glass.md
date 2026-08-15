@@ -625,7 +625,6 @@ Hidden categories:
   * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
   * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
   * [Mobile view](https://en.wikipedia.org/w/index.php?title=Glass_fiber&mobileaction=toggle_view_mobile)
-  * [Edit preview settings](https://en.wikipedia.org/wiki/Glass_fiber)
 
 
   * [![Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)

@@ -26,23 +26,6 @@ Search
 Appearance
 Appearance
 move to sidebar hide
-Text
-  * Small
-Standard
-Large
-
-This page always uses small font size
-Width
-  * Standard
-Wide
-
-The content is as wide as possible for your browser window.
-Color 
-  * Automatic
-Light
-Dark
-
-This page is always in light mode.
   * [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
   * [Create account](https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=SAE+304+stainless+steel&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You are encouraged to create an account and log in; however, it is not mandatory")
   * [Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=SAE+304+stainless+steel&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
@@ -208,7 +191,7 @@ Carbon content has a strong influence on room temperature strength and thus the 
   15. [↑](https://en.wikipedia.org/wiki/SAE_304_stainless_steel#cite_ref-15 "Jump up") ["Easily distinguishing tips between 304, 304H and 304L"](http://www.sino-alloy.com/blog/distinguish-304-304h-304l.html). Younglee Metal Products Co. September 1, 2017. [Archived](https://web.archive.org/web/20180411181832/http://www.sino-alloy.com/blog/distinguish-304-304h-304l.html) from the original on April 11, 2018. Retrieved 5 December 2024.
 
   
-|  hide
+| 
   * [v](https://en.wikipedia.org/wiki/Template:SAE_International "Template:SAE International")
   * [t](https://en.wikipedia.org/wiki/Template_talk:SAE_International "Template talk:SAE International")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:SAE_International "Special:EditPage/Template:SAE International")
@@ -301,7 +284,6 @@ Hidden categories:
   * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
   * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
   * [Mobile view](https://en.wikipedia.org/w/index.php?title=SAE_304_stainless_steel&mobileaction=toggle_view_mobile)
-  * [Edit preview settings](https://en.wikipedia.org/wiki/SAE_304_stainless_steel)
 
 
   * [![Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
@@ -314,7 +296,6 @@ Toggle the table of contents
 SAE 304 stainless steel
 [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel) [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel) [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel) [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel) [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel) [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel) [ ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel)
 5 languages [ Add topic ](https://en.wikipedia.org/wiki/SAE_304_stainless_steel)
-[](https://en.wikipedia.org/wiki/SAE_304_stainless_steel?action=edit)
   *[v]: View this template
   *[t]: Discuss this template
   *[e]: Edit this template

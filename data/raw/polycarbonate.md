@@ -24,25 +24,6 @@ Contribute
 [ Search ](https://en.wikipedia.org/wiki/Special:Search "Search Wikipedia \[alt-f\]")
 Search
 Appearance
-Appearance
-move to sidebar hide
-Text
-  * Small
-Standard
-Large
-
-This page always uses small font size
-Width
-  * Standard
-Wide
-
-The content is as wide as possible for your browser window.
-Color 
-  * Automatic
-Light
-Dark
-
-This page is always in light mode.
   * [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
   * [Create account](https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Polycarbonate&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You are encouraged to create an account and log in; however, it is not mandatory")
   * [Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Polycarbonate&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
@@ -54,7 +35,6 @@ Personal tools
   * [ Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Polycarbonate&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
 
 
-Toggle the table of contents
 ## Contents
 move to sidebar hide
   * [ (Top) ](https://en.wikipedia.org/wiki/Polycarbonate)
@@ -84,6 +64,7 @@ move to sidebar hide
   * [ 9 References ](https://en.wikipedia.org/wiki/Polycarbonate#References)
 
 
+Toggle the table of contents
 # Polycarbonate
 40 languages
   * [العربية](https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84%D9%8A_%D9%83%D8%B1%D8%A8%D9%88%D9%86%D8%A7%D8%AA "بولي كربونات – Arabic")
@@ -158,7 +139,6 @@ General
   * [Get shortened URL](https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPolycarbonate)
   * [Switch to legacy parser](https://en.wikipedia.org/w/index.php?title=Polycarbonate&useparsoid=0)
   * [Expand all](https://en.wikipedia.org/wiki/Polycarbonate "Expand all collapsible elements on the current page")
-  * [Edit interlanguage links](https://www.wikidata.org/wiki/Special:EntityPage/Q62246#sitelinks-wikipedia "Edit interlanguage links")
 
 
 Print/export 
@@ -171,6 +151,8 @@ In other projects
   * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q62246 "Structured data on this page hosted by Wikidata \[alt-g\]")
 
 
+Appearance
+move to sidebar hide
 From Wikipedia, the free encyclopedia
 Family of polymers
 This article is about thermoplastic polymer materials. For carbonate-chain functional-groups, see [polycarbonate (functional group)](https://en.wikipedia.org/wiki/Polycarbonate_\(functional_group\) "Polycarbonate \(functional group\)").  
@@ -409,7 +391,7 @@ Wikimedia Commons has media related to [Polycarbonate](https://commons.wikimedia
   45. [↑](https://en.wikipedia.org/wiki/Polycarbonate#cite_ref-45 "Jump up") Bosch, Xavier (2001-06-27). ["Fungus eats CD"](http://www.nature.com/news/1998/010628/full/news010628-11.html). _Nature News_. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi \(identifier\)"):[10.1038/news010628-11](https://doi.org/10.1038%2Fnews010628-11).
 
   
-|  show
+| 
   * [v](https://en.wikipedia.org/wiki/Template:Plastics "Template:Plastics")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Plastics "Template talk:Plastics")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Plastics "Special:EditPage/Template:Plastics")
@@ -516,7 +498,7 @@ processing  |
  |  
 | Environment   
 and health  |   
- |  show
+ | 
   * [v](https://en.wikipedia.org/wiki/Template:Health_issues_of_plastics "Template:Health issues of plastics")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Health_issues_of_plastics "Template talk:Health issues of plastics")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Health_issues_of_plastics "Special:EditPage/Template:Health issues of plastics")
@@ -590,7 +572,7 @@ Health issues of [plastics](https://en.wikipedia.org/wiki/Plastic "Plastic") and
 
  |  
 | [Identification codes](https://en.wikipedia.org/wiki/Resin_identification_code "Resin identification code") |  
-|  show
+| 
   * [v](https://en.wikipedia.org/wiki/Template:Health_issues_of_plastics "Template:Health issues of plastics")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Health_issues_of_plastics "Template talk:Health issues of plastics")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Health_issues_of_plastics "Special:EditPage/Template:Health issues of plastics")
@@ -651,7 +633,7 @@ Health issues of [plastics](https://en.wikipedia.org/wiki/Plastic "Plastic") and
   * [Toxic Substances Control Act](https://en.wikipedia.org/wiki/Toxic_Substances_Control_Act_of_1976 "Toxic Substances Control Act of 1976")
 
  |  
-|  show [Authority control databases](https://en.wikipedia.org/wiki/Help:Authority_control "Help:Authority control") [![Edit this at Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q62246#identifiers "Edit this at Wikidata")  |  
+|  [Authority control databases](https://en.wikipedia.org/wiki/Help:Authority_control "Help:Authority control") [![Edit this at Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q62246#identifiers "Edit this at Wikidata")  |  
 | --- |  
 | International  | 
   * [GND](https://d-nb.info/gnd/4175128-0)
@@ -704,7 +686,6 @@ Hidden categories:
   * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
   * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
   * [Mobile view](https://en.wikipedia.org/w/index.php?title=Polycarbonate&mobileaction=toggle_view_mobile)
-  * [Edit preview settings](https://en.wikipedia.org/wiki/Polycarbonate)
 
 
   * [![Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
@@ -717,7 +698,6 @@ Toggle the table of contents
 Polycarbonate
 [ ](https://en.wikipedia.org/wiki/Polycarbonate) [ ](https://en.wikipedia.org/wiki/Polycarbonate) [ ](https://en.wikipedia.org/wiki/Polycarbonate) [ ](https://en.wikipedia.org/wiki/Polycarbonate) [ ](https://en.wikipedia.org/wiki/Polycarbonate) [ ](https://en.wikipedia.org/wiki/Polycarbonate) [ ](https://en.wikipedia.org/wiki/Polycarbonate)
 40 languages [ Add topic ](https://en.wikipedia.org/wiki/Polycarbonate)
-[](https://en.wikipedia.org/wiki/Polycarbonate?action=edit)
   *[v]: View this template
   *[t]: Discuss this template
   *[e]: Edit this template
