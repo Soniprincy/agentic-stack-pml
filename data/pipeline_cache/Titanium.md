@@ -24,25 +24,6 @@ Contribute
 [ Search ](https://en.wikipedia.org/wiki/Special:Search "Search Wikipedia \[alt-f\]")
 Search
 Appearance
-Appearance
-move to sidebar hide
-Text
-  * Small
-Standard
-Large
-
-This page always uses small font size
-Width
-  * Standard
-Wide
-
-The content is as wide as possible for your browser window.
-Color 
-  * Automatic
-Light
-Dark
-
-This page is always in light mode.
   * [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
   * [Create account](https://en.wikipedia.org/w/index.php?title=Special%3ACreateAccount&returnto=Titanium&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You are encouraged to create an account and log in; however, it is not mandatory")
   * [Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Titanium&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
@@ -54,7 +35,6 @@ Personal tools
   * [ Log in](https://en.wikipedia.org/w/index.php?title=Special%3AUserLogin&returnto=Titanium&experiments%5B0%5D=we-1-8-account-creation-no-desktop-benefits%3Aunsampled "You're encouraged to log in; however, it's not mandatory. \[alt-o\]")
 
 
-Toggle the table of contents
 ## Contents
 move to sidebar hide
   * [ (Top) ](https://en.wikipedia.org/wiki/Titanium)
@@ -98,6 +78,7 @@ move to sidebar hide
   * [ 12 External links ](https://en.wikipedia.org/wiki/Titanium#External_links)
 
 
+Toggle the table of contents
 # Titanium
 162 languages
   * [Afrikaans](https://af.wikipedia.org/wiki/Titaan "Titaan – Afrikaans")
@@ -290,13 +271,12 @@ General
   * [What links here](https://en.wikipedia.org/wiki/Special:WhatLinksHere/Titanium "List of all English Wikipedia pages containing links to this page \[alt-j\]")
   * [Related changes](https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Titanium "Recent changes in pages linked from this page \[alt-k\]")
   * [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard "Upload files \[alt-u\]")
-  * [Permanent link](https://en.wikipedia.org/w/index.php?title=Titanium&oldid=1368657774 "Permanent link to this revision of this page")
+  * [Permanent link](https://en.wikipedia.org/w/index.php?title=Titanium&oldid=1369673215 "Permanent link to this revision of this page")
   * [Page information](https://en.wikipedia.org/w/index.php?title=Titanium&action=info "More information about this page")
-  * [Cite this page](https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Titanium&id=1368657774&wpFormIdentifier=titleform "Information on how to cite this page")
+  * [Cite this page](https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Titanium&id=1369673215&wpFormIdentifier=titleform "Information on how to cite this page")
   * [Get shortened URL](https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTitanium)
   * [Switch to legacy parser](https://en.wikipedia.org/w/index.php?title=Titanium&useparsoid=0)
   * [Expand all](https://en.wikipedia.org/wiki/Titanium "Expand all collapsible elements on the current page")
-  * [Edit interlanguage links](https://www.wikidata.org/wiki/Special:EntityPage/Q716#sitelinks-wikipedia "Edit interlanguage links")
 
 
 Print/export 
@@ -310,6 +290,8 @@ In other projects
   * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q716 "Structured data on this page hosted by Wikidata \[alt-g\]")
 
 
+Appearance
+move to sidebar hide
 [![This is a good article. Click here for more information.](https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/Wikipedia:Good_articles* "This is a good article. Click here for more information.")
 [![Page semi-protected](https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi "This article is semi-protected.")
 From Wikipedia, the free encyclopedia
@@ -441,7 +423,7 @@ Ti  |
 |[references](https://en.wikipedia.org/wiki/List_of_data_references_for_chemical_elements "List of data references for chemical elements")  |  
 **Titanium** is a [chemical element](https://en.wikipedia.org/wiki/Chemical_element "Chemical element"); it has [symbol](https://en.wikipedia.org/wiki/Symbol_\(chemistry\) "Symbol \(chemistry\)") **Ti** and [atomic number](https://en.wikipedia.org/wiki/Atomic_number "Atomic number") 22. Found in nature only as an [oxide](https://en.wikipedia.org/wiki/Oxide "Oxide"), it can be reduced to produce a lustrous [transition metal](https://en.wikipedia.org/wiki/Transition_metal "Transition metal") with a silver [color](https://en.wikipedia.org/wiki/Color "Color"), low [density](https://en.wikipedia.org/wiki/Density "Density"), and high strength that is resistant to [corrosion](https://en.wikipedia.org/wiki/Corrosion "Corrosion") in [sea water](https://en.wikipedia.org/wiki/Sea_water "Sea water"), [aqua regia](https://en.wikipedia.org/wiki/Aqua_regia "Aqua regia"), and [chlorine](https://en.wikipedia.org/wiki/Chlorine "Chlorine").
 Titanium was discovered in [Cornwall](https://en.wikipedia.org/wiki/Cornwall "Cornwall"), [Great Britain](https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain "Kingdom of Great Britain"), by [William Gregor](https://en.wikipedia.org/wiki/William_Gregor "William Gregor") in 1791 and was named by [Martin Heinrich Klaproth](https://en.wikipedia.org/wiki/Martin_Heinrich_Klaproth "Martin Heinrich Klaproth") after the [Titans](https://en.wikipedia.org/wiki/Titan_\(mythology\) "Titan \(mythology\)") of [Greek mythology](https://en.wikipedia.org/wiki/Greek_mythology "Greek mythology"). The element occurs within a number of [minerals](https://en.wikipedia.org/wiki/Mineral "Mineral"), principally [rutile](https://en.wikipedia.org/wiki/Rutile "Rutile") and [ilmenite](https://en.wikipedia.org/wiki/Ilmenite "Ilmenite"), which are widely distributed in the [Earth's crust](https://en.wikipedia.org/wiki/Earth's_crust "Earth's crust") and [lithosphere](https://en.wikipedia.org/wiki/Lithosphere "Lithosphere"); it is found in almost all living things, as well as bodies of water, rocks, and soils.[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13) The metal is extracted from its principal mineral ores by the [Kroll](https://en.wikipedia.org/wiki/Kroll_process "Kroll process") and [Hunter](https://en.wikipedia.org/wiki/Hunter_process "Hunter process") processes.[[13]](https://en.wikipedia.org/wiki/Titanium#cite_note-LANL-14) The most common compound, [titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide "Titanium dioxide") (TiO2), is a popular [photocatalyst](https://en.wikipedia.org/wiki/Photocatalysis "Photocatalysis") and is used in the manufacture of white pigments.[[14]](https://en.wikipedia.org/wiki/Titanium#cite_note-HistoryAndUse-15) Other compounds include [titanium tetrachloride](https://en.wikipedia.org/wiki/Titanium_tetrachloride "Titanium tetrachloride") (TiCl4), a component of [smoke screens](https://en.wikipedia.org/wiki/Smoke_screen "Smoke screen") and [catalysts](https://en.wikipedia.org/wiki/Catalyst "Catalyst"); and [titanium trichloride](https://en.wikipedia.org/wiki/Titanium_trichloride "Titanium trichloride") (TiCl3), which is used as a catalyst in the production of [polypropylene](https://en.wikipedia.org/wiki/Polypropylene "Polypropylene").[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13)
-Titanium can be [alloyed](https://en.wikipedia.org/wiki/Alloy "Alloy") with [iron](https://en.wikipedia.org/wiki/Iron "Iron"), [aluminium](https://en.wikipedia.org/wiki/Aluminium "Aluminium"), [vanadium](https://en.wikipedia.org/wiki/Vanadium "Vanadium"), and [molybdenum](https://en.wikipedia.org/wiki/Molybdenum "Molybdenum"), among other elements. The resulting [titanium alloys](https://en.wikipedia.org/wiki/Titanium_alloys "Titanium alloys") are strong, lightweight, and versatile, with applications including aerospace ([jet engines](https://en.wikipedia.org/wiki/Jet_engine "Jet engine"), [missiles](https://en.wikipedia.org/wiki/Missile "Missile"), and [spacecraft](https://en.wikipedia.org/wiki/Spacecraft "Spacecraft")), military, industrial processes (chemicals and petrochemicals, [desalination plants](https://en.wikipedia.org/wiki/Desalination_plant "Desalination plant"), pulp, and paper), automotive, [agriculture](https://en.wikipedia.org/wiki/Agriculture "Agriculture") (farming), sporting goods, jewelry, and [consumer electronics](https://en.wikipedia.org/wiki/Consumer_electronics "Consumer electronics").[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13) Titanium is also considered one of the most [biocompatible](https://en.wikipedia.org/wiki/Biocompatible "Biocompatible") metals, leading to a range of medical applications including [prostheses](https://en.wikipedia.org/wiki/Prostheses "Prostheses"), [orthopedic implants](https://en.wikipedia.org/wiki/Orthopedic_implant "Orthopedic implant"), [dental implants](https://en.wikipedia.org/wiki/Dental_implant "Dental implant"), and [surgical instruments](https://en.wikipedia.org/wiki/Surgical_instrument "Surgical instrument").[[15]](https://en.wikipedia.org/wiki/Titanium#cite_note-Medical_University_2022_v636-16)
+Titanium can be [alloyed](https://en.wikipedia.org/wiki/Alloy "Alloy") with [iron](https://en.wikipedia.org/wiki/Iron "Iron"), [aluminium](https://en.wikipedia.org/wiki/Aluminium "Aluminium"), [vanadium](https://en.wikipedia.org/wiki/Vanadium "Vanadium"), and [molybdenum](https://en.wikipedia.org/wiki/Molybdenum "Molybdenum"), among other elements. The resulting [titanium alloys](https://en.wikipedia.org/wiki/Titanium_alloys "Titanium alloys") are strong, lightweight, and versatile, with applications including aerospace ([jet engines](https://en.wikipedia.org/wiki/Jet_engine "Jet engine"), [missiles](https://en.wikipedia.org/wiki/Missile "Missile"), and [spacecraft](https://en.wikipedia.org/wiki/Spacecraft "Spacecraft")), military, industrial processes (chemicals and petrochemicals, [desalination plants](https://en.wikipedia.org/wiki/Desalination_plant "Desalination plant"), pulp, and paper), automotive, [agriculture](https://en.wikipedia.org/wiki/Agriculture "Agriculture") (farming), sporting goods such as [golf clubs](https://en.wikipedia.org/wiki/Golf_clubs "Golf clubs"), jewelry, and [consumer electronics](https://en.wikipedia.org/wiki/Consumer_electronics "Consumer electronics").[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13) Titanium is also considered one of the most [biocompatible](https://en.wikipedia.org/wiki/Biocompatible "Biocompatible") metals, leading to a range of medical applications including [prostheses](https://en.wikipedia.org/wiki/Prostheses "Prostheses"), [orthopedic implants](https://en.wikipedia.org/wiki/Orthopedic_implant "Orthopedic implant"), [dental implants](https://en.wikipedia.org/wiki/Dental_implant "Dental implant"), and [surgical instruments](https://en.wikipedia.org/wiki/Surgical_instrument "Surgical instrument").[[15]](https://en.wikipedia.org/wiki/Titanium#cite_note-Medical_University_2022_v636-16)
 The two most useful properties of the metal are its corrosion resistance and [tensile-strength-to-density ratio](https://en.wikipedia.org/wiki/Specific_strength "Specific strength"), the highest of any metallic element,[[16]](https://en.wikipedia.org/wiki/Titanium#cite_note-17) although resistance to [tensile stress](https://en.wikipedia.org/wiki/Tensile_stress "Tensile stress") does not mean it has the highest ratio for other stresses: [bulk compression](https://en.wikipedia.org/wiki/Bulk_modulus "Bulk modulus"), [shear](https://en.wikipedia.org/wiki/Shear_stress "Shear stress"), and [pressure wave](https://en.wikipedia.org/wiki/P-wave_modulus "P-wave modulus"). In its unalloyed condition, titanium is as tensile-strong as some [steels](https://en.wikipedia.org/wiki/Steel "Steel"), but less dense.[[17]](https://en.wikipedia.org/wiki/Titanium#cite_note-Barksdale1968p738-18) There are two [allotropic](https://en.wikipedia.org/wiki/Allotropy "Allotropy") forms[[18]](https://en.wikipedia.org/wiki/Titanium#cite_note-TICE6th-19) and five naturally occurring [isotopes](https://en.wikipedia.org/wiki/Isotope "Isotope") of this element, [46Ti](https://en.wikipedia.org/wiki/Isotopes_of_titanium "Isotopes of titanium") through 50Ti, with 48Ti being the most [abundant](https://en.wikipedia.org/wiki/Natural_abundance "Natural abundance") (73.8%).[[19]](https://en.wikipedia.org/wiki/Titanium#cite_note-EnvChem-20)
 ## Characteristics
 ### Physical properties
@@ -526,7 +508,7 @@ The Hunter process was the first industrial process to produce pure metallic tit
 #### Kroll process
 [![Slightly yellow liquid in a vial with a white cap on a black table](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sample_of_Titanium_tetrachloride_01.jpg/250px-Sample_of_Titanium_tetrachloride_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Sample_of_Titanium_tetrachloride_01.jpg)Sample of titanium tetrachloride, a volatile liquid
 The processing of titanium metal occurs in four major steps: reduction of titanium ore into "sponge", a porous form; melting of sponge, or sponge plus a master alloy to form an ingot; primary fabrication, where an ingot is converted into general mill products such as [billet](https://en.wikipedia.org/wiki/Bar_stock "Bar stock"), bar, [plate](https://en.wikipedia.org/wiki/Plate_\(metal\) "Plate \(metal\)"), [sheet](https://en.wikipedia.org/wiki/Sheet_metal "Sheet metal"), strip, and [tube](https://en.wikipedia.org/wiki/Tube_\(fluid_conveyance\) "Tube \(fluid conveyance\)"); and secondary fabrication of finished shapes from mill products.[[83]](https://en.wikipedia.org/wiki/Titanium#cite_note-88)
-Because it cannot be readily produced by reduction of titanium dioxide,[[20]](https://en.wikipedia.org/wiki/Titanium#cite_note-Stwertka1998-21) titanium metal is obtained by reduction of [titanium tetrachloride](https://en.wikipedia.org/wiki/Titanium_tetrachloride "Titanium tetrachloride") (TiCl4) with magnesium metal in the Kroll process. The complexity of this batch production in the Kroll process explains the relatively high market value of titanium,[[84]](https://en.wikipedia.org/wiki/Titanium#cite_note-Barksdale1968p733-89) despite the Kroll process being less expensive than the Hunter process.[[68]](https://en.wikipedia.org/wiki/Titanium#cite_note-Roza2008p9-71) To produce the TiCl4 required by the Kroll process, the dioxide is subjected to [carbothermic reduction](https://en.wikipedia.org/wiki/Carbothermic_reduction "Carbothermic reduction") in the presence of [chlorine](https://en.wikipedia.org/wiki/Chlorine "Chlorine"). In this process, the chlorine gas is passed over a red-hot mixture of rutile or ilmenite in the presence of carbon. After extensive purification by [fractional distillation](https://en.wikipedia.org/wiki/Fractional_distillation "Fractional distillation"), the TiCl4 is reduced with 800°C (1,470°F) molten magnesium in an [argon](https://en.wikipedia.org/wiki/Argon "Argon") atmosphere.[[18]](https://en.wikipedia.org/wiki/Titanium#cite_note-TICE6th-19)      2 FeTiO 3 + 7 Cl 2 + 6 C → 900 o C 2 FeCl 3 + 2 TiCl 4 + 6 CO {\displaystyle {\ce {2FeTiO3 + 7Cl2 + 6C ->[900^oC] 2FeCl3 + 2TiCl4 + 6CO}}} ![{\\displaystyle {2\\,\\mathrm {FeTiO} {\\vphantom {A}}_{\\smash\[{t}\]{3}}{}+{}7\\,\\mathrm {Cl} {\\vphantom {A}}_{\\smash\[{t}\]{2}}{}+{}6\\,\\mathrm {C} {}\\mathrel {\\xrightarrow {900{\\vphantom {A}}^{o}\\mathrm {C} } } {}2\\,\\mathrm {FeCl} {\\vphantom {A}}_{\\smash\[{t}\]{3}}{}+{}2\\,\\mathrm {TiCl} {\\vphantom {A}}_{\\smash\[{t}\]{4}}{}+{}6\\,\\mathrm {CO} }}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1eeb2d68819d30ab4f11311db1e92a04acc56bc6)      TiCl 4 + 2 Mg → 1100 o C Ti + 2 MgCl 2 {\displaystyle {\ce {TiCl4 + 2Mg ->[1100^oC] Ti + 2MgCl2}}} ![{\\displaystyle {\\mathrm {TiCl} {\\vphantom {A}}_{\\smash\[{t}\]{4}}{}+{}2\\,\\mathrm {Mg} {}\\mathrel {\\xrightarrow {1100{\\vphantom {A}}^{o}\\mathrm {C} } } {}\\mathrm {Ti} {}+{}2\\,\\mathrm {MgCl} {\\vphantom {A}}_{\\smash\[{t}\]{2}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f228cf9d1b37bed2a16479329a0cbac935343617)
+Because it cannot be readily produced by reduction of titanium dioxide,[[20]](https://en.wikipedia.org/wiki/Titanium#cite_note-Stwertka1998-21) titanium metal is obtained by reduction of [titanium tetrachloride](https://en.wikipedia.org/wiki/Titanium_tetrachloride "Titanium tetrachloride") (TiCl4) with magnesium metal in the Kroll process. The complexity of this batch production in the Kroll process explains the relatively high market value of titanium,[[84]](https://en.wikipedia.org/wiki/Titanium#cite_note-Barksdale1968p733-89) despite the Kroll process being less expensive than the Hunter process.[[68]](https://en.wikipedia.org/wiki/Titanium#cite_note-Roza2008p9-71) To produce the TiCl4 required by the Kroll process, the dioxide is subjected to [carbothermic reduction](https://en.wikipedia.org/wiki/Carbothermic_reduction "Carbothermic reduction") in the presence of [chlorine](https://en.wikipedia.org/wiki/Chlorine "Chlorine"). In this process, the chlorine gas is passed over a red-hot mixture of rutile or ilmenite in the presence of carbon. After extensive purification by [fractional distillation](https://en.wikipedia.org/wiki/Fractional_distillation "Fractional distillation"), the TiCl4 is reduced with 800°C (1,470°F) molten magnesium in an [argon](https://en.wikipedia.org/wiki/Argon "Argon") atmosphere.[[18]](https://en.wikipedia.org/wiki/Titanium#cite_note-TICE6th-19)      2 FeTiO3 + 7 Cl2 + 6 C → 900 o C {\displaystyle {\ce {->[900^oC]}}} ![{\\displaystyle {{}\\mathrel {\\xrightarrow {900{\\vphantom {A}}^{o}\\mathrm {C} } } {}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4d6808c7ee0e9d357de16120b16816185698e92d) 2 FeCl3 + 2 TiCl4 + 6 CO      TiCl4 + 2 Mg → 1100 o C {\displaystyle {\ce {->[1100^oC]}}} ![{\\displaystyle {{}\\mathrel {\\xrightarrow {1100{\\vphantom {A}}^{o}\\mathrm {C} } } {}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ffa36b81763ebad4d3189631ffc43aab8838c3f6) Ti + 2 MgCl2
 #### Arkel-Boer process
 The [van Arkel–de Boer process](https://en.wikipedia.org/wiki/Van_Arkel%E2%80%93de_Boer_process "Van Arkel–de Boer process") was the first semi-industrial process developed to produce pure titanium, invented by [Anton Eduard van Arkel](https://en.wikipedia.org/wiki/Anton_Eduard_van_Arkel "Anton Eduard van Arkel") and [Jan Hendrik de Boer](https://en.wikipedia.org/wiki/Jan_Hendrik_de_Boer "Jan Hendrik de Boer") in 1925 for the electronics company [Philips](https://en.wikipedia.org/wiki/Philips_Nv "Philips Nv").[[85]](https://en.wikipedia.org/wiki/Titanium#cite_note-:1-90) It is a closed-loop process[[86]](https://en.wikipedia.org/wiki/Titanium#cite_note-:2-91) that involves thermal decomposition of [titanium tetraiodide](https://en.wikipedia.org/wiki/Titanium_tetraiodide "Titanium tetraiodide").[[87]](https://en.wikipedia.org/wiki/Titanium#cite_note-92) This same process is used to purify other metals, such as thorium, hafnium, and zirconium,[[85]](https://en.wikipedia.org/wiki/Titanium#cite_note-:1-90) and a similar process using further refined iodide was used to refine chromium. A desire to develop processes that could be run continuously led to the development of commercial processes to refine titanium.[[86]](https://en.wikipedia.org/wiki/Titanium#cite_note-:2-91)
 #### Armstrong process
@@ -551,10 +533,8 @@ Commercially pure flat product (sheet, plate) can be formed readily, but process
 Titanium is used in steel as an alloying element ([ferro-titanium](https://en.wikipedia.org/wiki/Ferro-titanium "Ferro-titanium")) to reduce [grain size](https://en.wikipedia.org/wiki/Crystallite "Crystallite") and as a [deoxidizer](https://en.wikipedia.org/wiki/Deoxidizer "Deoxidizer"), and in stainless steel to reduce carbon content.[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13) Titanium is often alloyed with aluminium (to refine grain size), [vanadium](https://en.wikipedia.org/wiki/Vanadium "Vanadium"), copper (to harden), [iron](https://en.wikipedia.org/wiki/Iron "Iron"), [manganese](https://en.wikipedia.org/wiki/Manganese "Manganese"), [molybdenum](https://en.wikipedia.org/wiki/Molybdenum "Molybdenum"), and other metals.[[107]](https://en.wikipedia.org/wiki/Titanium#cite_note-ECE738-112) Titanium mill products (sheet, plate, bar, wire, forgings, castings) find application in industrial, aerospace, recreational, and emerging markets. Powdered titanium is used in [pyrotechnics](https://en.wikipedia.org/wiki/Pyrotechnics "Pyrotechnics") as a source of bright-burning particles.[[108]](https://en.wikipedia.org/wiki/Titanium#cite_note-113)
 ### Pigments, additives, and coatings
 [![White powder in a small pile](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Titanium-dioxide-sample.jpg/250px-Titanium-dioxide-sample.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Titanium-dioxide-sample.jpg)[Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide "Titanium dioxide") is the most commonly used compound of titanium.[[33]](https://en.wikipedia.org/wiki/Titanium#cite_note-USGS-34)
-[Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide "Titanium dioxide") (TiO  
-2) is the most common compound of the element, being the end point of 95% of the world's refined titanium. It is a widely used white [pigment](https://en.wikipedia.org/wiki/Pigment "Pigment").[[33]](https://en.wikipedia.org/wiki/Titanium#cite_note-USGS-34) It is also used in cement, in gemstones, and as an optical opacifier in paper.[[109]](https://en.wikipedia.org/wiki/Titanium#cite_note-114)
-TiO  
-2 pigment is chemically inert, resists fading in sunlight, and is very opaque: it imparts a pure and brilliant white color to the brown or grey chemicals that form the majority of household plastics.[[14]](https://en.wikipedia.org/wiki/Titanium#cite_note-HistoryAndUse-15) In nature, this compound is found in the minerals anatase, brookite, and rutile.[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13) Paint made with titanium dioxide does well in severe temperatures and marine environments.[[14]](https://en.wikipedia.org/wiki/Titanium#cite_note-HistoryAndUse-15) Pure titanium dioxide has a very high [index of refraction](https://en.wikipedia.org/wiki/Refractive_index "Refractive index") and an [optical dispersion](https://en.wikipedia.org/wiki/Optical_dispersion "Optical dispersion") higher than [diamond](https://en.wikipedia.org/wiki/Diamond "Diamond").[[13]](https://en.wikipedia.org/wiki/Titanium#cite_note-LANL-14) Titanium dioxide is used in [sunscreens](https://en.wikipedia.org/wiki/Sunscreen "Sunscreen") because it reflects and absorbs [UV light](https://en.wikipedia.org/wiki/UV_light "UV light").[[20]](https://en.wikipedia.org/wiki/Titanium#cite_note-Stwertka1998-21)
+[Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide "Titanium dioxide") (TiO2) is the most common compound of the element, being the end point of 95% of the world's refined titanium. It is a widely used white [pigment](https://en.wikipedia.org/wiki/Pigment "Pigment").[[33]](https://en.wikipedia.org/wiki/Titanium#cite_note-USGS-34) It is also used in cement, in gemstones, and as an optical opacifier in paper.[[109]](https://en.wikipedia.org/wiki/Titanium#cite_note-114)
+TiO2 pigment is chemically inert, resists fading in sunlight, and is very opaque: it imparts a pure and brilliant white color to the brown or grey chemicals that form the majority of household plastics.[[14]](https://en.wikipedia.org/wiki/Titanium#cite_note-HistoryAndUse-15) In nature, this compound is found in the minerals anatase, brookite, and rutile.[[12]](https://en.wikipedia.org/wiki/Titanium#cite_note-EBC-13) Paint made with titanium dioxide does well in severe temperatures and marine environments.[[14]](https://en.wikipedia.org/wiki/Titanium#cite_note-HistoryAndUse-15) Pure titanium dioxide has a very high [index of refraction](https://en.wikipedia.org/wiki/Refractive_index "Refractive index") and an [optical dispersion](https://en.wikipedia.org/wiki/Optical_dispersion "Optical dispersion") higher than [diamond](https://en.wikipedia.org/wiki/Diamond "Diamond").[[13]](https://en.wikipedia.org/wiki/Titanium#cite_note-LANL-14) Titanium dioxide is used in [sunscreens](https://en.wikipedia.org/wiki/Sunscreen "Sunscreen") because it reflects and absorbs [UV light](https://en.wikipedia.org/wiki/UV_light "UV light").[[20]](https://en.wikipedia.org/wiki/Titanium#cite_note-Stwertka1998-21)
 ### Aerospace and marine
 [![A black aircraft in midair](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A12-flying.jpg/250px-A12-flying.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:A12-flying.jpg)The [Lockheed A-12](https://en.wikipedia.org/wiki/Lockheed_A-12 "Lockheed A-12"), one of the first planes with a frame mostly made of titanium
 Because titanium alloys have high [tensile strength](https://en.wikipedia.org/wiki/Tensile_strength "Tensile strength") to density ratio,[[18]](https://en.wikipedia.org/wiki/Titanium#cite_note-TICE6th-19) high [corrosion resistance](https://en.wikipedia.org/wiki/Corrosion_resistance "Corrosion resistance"),[[13]](https://en.wikipedia.org/wiki/Titanium#cite_note-LANL-14) fatigue resistance, high crack resistance,[[110]](https://en.wikipedia.org/wiki/Titanium#cite_note-Moiseyev-115) and ability to withstand moderately high temperatures without creeping, they are used in aircraft, armor plating, naval ships, spacecraft, and missiles.[[13]](https://en.wikipedia.org/wiki/Titanium#cite_note-LANL-14)[[14]](https://en.wikipedia.org/wiki/Titanium#cite_note-HistoryAndUse-15) For these applications, titanium is alloyed with aluminium, zirconium, nickel,[[111]](https://en.wikipedia.org/wiki/Titanium#cite_note-Kramer-2013-07-05-116) vanadium, and other elements to manufacture a variety of components including critical structural parts, [landing gear](https://en.wikipedia.org/wiki/Landing_gear "Landing gear"), [firewalls](https://en.wikipedia.org/wiki/Firewall_\(engine\) "Firewall \(engine\)"), exhaust ducts (helicopters), and hydraulic systems. About two thirds of all titanium metal produced is used in aircraft frames and engines.[[112]](https://en.wikipedia.org/wiki/Titanium#cite_note-Emsley2001p454-117) The [titanium 6AL-4V](https://en.wikipedia.org/wiki/Titanium_6AL-4V "Titanium 6AL-4V") alloy accounts for almost 50% of all alloys used in aircraft applications.[[113]](https://en.wikipedia.org/wiki/Titanium#cite_note-118)
@@ -811,7 +791,7 @@ An unknown mechanism in [plants](https://en.wikipedia.org/wiki/Plant "Plant") ma
   * [Metallurgy of Titanium and its Alloys](https://www.phase-trans.msm.cam.ac.uk/2003/titanium.movies/titanium.html) - slide presentations, movies, and other material from [Harshad Bhadeshia](https://en.wikipedia.org/wiki/Harshad_Bhadeshia "Harshad Bhadeshia") and other [Cambridge University](https://en.wikipedia.org/wiki/Cambridge_University "Cambridge University") metallurgists
 
   
-|  show
+| 
   * [v](https://en.wikipedia.org/wiki/Template:Periodic_table_\(navbox\) "Template:Periodic table \(navbox\)")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Periodic_table_\(navbox\) "Template talk:Periodic table \(navbox\)")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Periodic_table_\(navbox\) "Special:EditPage/Template:Periodic table \(navbox\)")
@@ -833,7 +813,7 @@ An unknown mechanism in [plants](https://en.wikipedia.org/wiki/Plant "Plant") ma
  | [s-block](https://en.wikipedia.org/wiki/S-block "S-block")  | [f-block](https://en.wikipedia.org/wiki/F-block "F-block")  | [d-block](https://en.wikipedia.org/wiki/D-block "D-block")  | [p-block](https://en.wikipedia.org/wiki/P-block "P-block")  |  
 | --- | --- | --- | --- |  
  |  
-|  show
+| 
   * [v](https://en.wikipedia.org/wiki/Template:Titanium_compounds "Template:Titanium compounds")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Titanium_compounds "Template talk:Titanium compounds")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Titanium_compounds "Special:EditPage/Template:Titanium compounds")
@@ -943,7 +923,7 @@ An unknown mechanism in [plants](https://en.wikipedia.org/wiki/Plant "Plant") ma
 
  |  
  |  
-|  show
+| 
   * [v](https://en.wikipedia.org/wiki/Template:Titanium_minerals "Template:Titanium minerals")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Titanium_minerals?action=edit&redlink=1 "Template talk:Titanium minerals \(page does not exist\)")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Titanium_minerals "Special:EditPage/Template:Titanium minerals")
@@ -994,7 +974,7 @@ An unknown mechanism in [plants](https://en.wikipedia.org/wiki/Plant "Plant") ma
 
  |  
 | **[![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amethyst_sceptre2.jpg/20px-Amethyst_sceptre2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:Am%C3%A9thystre_sceptre2.jpg)[Mineralsportal](https://en.wikipedia.org/wiki/Portal:Minerals "Portal:Minerals")** |  
-|  show
+| 
   * [v](https://en.wikipedia.org/wiki/Template:Jewellery "Template:Jewellery")
   * [t](https://en.wikipedia.org/wiki/Template_talk:Jewellery "Template talk:Jewellery")
   * [e](https://en.wikipedia.org/wiki/Special:EditPage/Template:Jewellery "Special:EditPage/Template:Jewellery")
@@ -1198,7 +1178,7 @@ An unknown mechanism in [plants](https://en.wikipedia.org/wiki/Plant "Plant") ma
 
 Related topics
     [Body piercing jewelry](https://en.wikipedia.org/wiki/Body_piercing_jewelry "Body piercing jewelry")     [Fashion](https://en.wikipedia.org/wiki/Fashion "Fashion")     [Gemology](https://en.wikipedia.org/wiki/Gemology "Gemology")     [Metalworking](https://en.wikipedia.org/wiki/Metalworking "Metalworking")     [Phaleristics](https://en.wikipedia.org/wiki/Phaleristics "Phaleristics")     [Wearable art](https://en.wikipedia.org/wiki/Wearable_art "Wearable art")  |  
-|  show [Authority control databases](https://en.wikipedia.org/wiki/Help:Authority_control "Help:Authority control") [![Edit this at Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q716#identifiers "Edit this at Wikidata")  |  
+|  [Authority control databases](https://en.wikipedia.org/wiki/Help:Authority_control "Help:Authority control") [![Edit this at Wikidata](https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://www.wikidata.org/wiki/Q716#identifiers "Edit this at Wikidata")  |  
 | --- |  
 | International  | 
   * [GND](https://d-nb.info/gnd/4140648-5)
@@ -1218,7 +1198,7 @@ Related topics
   * [Yale LUX](https://lux.collections.yale.edu/view/concept/3236e45a-9c72-41d7-a6d3-815f9adb3487)
 
  |  
-Retrieved from "[https://en.wikipedia.org/w/index.php?title=Titanium&oldid=1368657774](https://en.wikipedia.org/w/index.php?title=Titanium&oldid=1368657774)"
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=Titanium&oldid=1369673215](https://en.wikipedia.org/w/index.php?title=Titanium&oldid=1369673215)"
 [Categories](https://en.wikipedia.org/wiki/Help:Category "Help:Category"): 
   * [Titanium](https://en.wikipedia.org/wiki/Category:Titanium "Category:Titanium")
   * [Aerospace materials](https://en.wikipedia.org/wiki/Category:Aerospace_materials "Category:Aerospace materials")
@@ -1248,7 +1228,7 @@ Hidden categories:
   * [Pages using Sister project links with default search](https://en.wikipedia.org/wiki/Category:Pages_using_Sister_project_links_with_default_search "Category:Pages using Sister project links with default search")
 
 
-  * This page was last edited on 10 August 2026, at 09:46 (UTC).
+  * This page was last edited on 16 August 2026, at 12:01 (UTC).
   * Page was rendered with [Parsoid](https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid "mw:Special:MyLanguage/Parsoid").
   * Text is available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License "Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License"); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "foundation:Special:MyLanguage/Policy:Terms of Use") and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy "foundation:Special:MyLanguage/Policy:Privacy policy"). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.
 
@@ -1263,7 +1243,6 @@ Hidden categories:
   * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
   * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
   * [Mobile view](https://en.wikipedia.org/w/index.php?title=Titanium&mobileaction=toggle_view_mobile)
-  * [Edit preview settings](https://en.wikipedia.org/wiki/Titanium)
 
 
   * [![Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
@@ -1276,7 +1255,6 @@ Toggle the table of contents
 Titanium
 [ ](https://en.wikipedia.org/wiki/Titanium) [ ](https://en.wikipedia.org/wiki/Titanium) [ ](https://en.wikipedia.org/wiki/Titanium) [ ](https://en.wikipedia.org/wiki/Titanium) [ ](https://en.wikipedia.org/wiki/Titanium) [ ](https://en.wikipedia.org/wiki/Titanium) [ ](https://en.wikipedia.org/wiki/Titanium)
 162 languages [ Add topic ](https://en.wikipedia.org/wiki/Titanium)
-[](https://en.wikipedia.org/wiki/Titanium?action=edit)
   *[_P_]: Pressure
   *[ _T_]: Temperature
   *[v]: View this template
