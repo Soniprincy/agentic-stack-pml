@@ -52,13 +52,13 @@ simple check that rejects anything above 25 g/cm3 (nothing is that dense).
 
 ## Part 5 — Langchain
 
-**Done** firstly write a code which uses langchain wrapper for ollama, crawl -> extract -> validate that return values in material format. then run the code with steel website that gives good answer. create a test.pipeline to test my code on 5 material pages/websites.
+**Done** firstly create a file pipeline, then write a code which uses langchain wrapper for ollama, crawl -> extract -> validate that return values in material format. then run the code with steel website that gives good answer. create a test.pipeline to test my code on 5 material pages/websites.
 it works better in my 5 pages.
 
 **Extension** — did LangChain make this easier, or just add a layer?
 for this assignment, it is just add a layer, real work was what we do earlier.
 it replaces 15 lines of httpx, pydantric code in part 3, that become 2 lines of code
-it wins on line count, i can easily under atand it but i already build and understand manual part also. it gives different answers in different runs (sometime null).
+it wins on line count, i can easily under stand it but i already build and understand manual part also. it gives different answers in different runs (sometime null).
 
 **Conclusion:** not worth the extra dependency for a single-model,
 single-call pipeline like this one — the manual Part 3 version was
@@ -68,3 +68,15 @@ pipeline needed to support multiple model providers.
 **Learned:** Assignment flagged that a lot of LangChain material online
 is outdated post-1.0. if any doubt docs.langchain.com before
 trusting any tutorial in later parts.
+
+## Part 6 — Langgraph
+
+**Done** firstly created a file named graph_pipeline where i write a pipeline with langgraph. Extract -> check -> route_after_check, where conditions are set, if density is none, more than 25 and less than 0.1 gives status bad, retry if attempts < 3 else return good, end the process. created a file test_retry.py for a quick checkup. Returns try again if density is more than 900000g/cm**3. capped it at 3 attempts. Also return mermaid graph in our output. then i add a tensile validation step, is tensite present and under 10000.
+Added a third validation in check: is tensile_strength_mpa present and under 10,000 MPa? Same pattern as the density check — specific feedback on failure, folded back into the next extract attempt.
+
+**Learned** when i run my code with small model "quen2.5:3b" it return output as bad, sometimes capture density sometime not. but as i run "qwen3:4b" it resolve this problem.
+
+- URL: (page that failed first try)
+- Attempt 1: model returned density_g_cm3 = bad value → check failed: 
+- Attempt 2: model returned density_g_cm3 = correct value → check passed.
+

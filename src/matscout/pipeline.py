@@ -10,7 +10,6 @@ from matscout.models import Material
 
 MODEL = "qwen2.5:3b"
 
-
 async def run_pipeline(url: str) -> Material:
     # Step 1: crawl
     async with AsyncWebCrawler() as crawler:
