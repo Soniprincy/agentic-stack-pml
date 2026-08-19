@@ -82,56 +82,63 @@ Added a third validation in check: is tensile_strength_mpa present and under 10,
 
 ## Part 7 — A2A: agents talking to each other
 
-**Done** i built a working agent against the real SDK for crawler page that princt 1-5 steps that happen before having the reference sample. then i clone reference repo to a2a_agent folder different from matscout.
+## Part 7 — A2A
 
--------------------------------------------------------------------------------------------
+**Done:**
+- Started from the provided a2a-starter repository.
+- Converted GreetingAgent into MaterialCrawlerAgent.
+- Added Crawl4AI to crawl Wikipedia material pages.
+- Added `crawl_material_page` to the Agent Card.
+- Connected the crawler through MaterialCrawlerExecutor.
+- Client successfully completed Discover → Check → Ask → Track → Collect.
+- Received the crawled Wikipedia content as an A2A Artifact.
 
-Matscout Crawler Agent:
-StatusCode        : 200
-StatusDescription : OK
-Content           : {"capabilities":{},"defaultInputModes":["text"],"defaultOutputModes":["text"],"description"
-                    :"Crawls material data pages and returns clean markdown.","name":"MatScout Crawler 
-                    Agent","preferredTransport...
-RawContent        : HTTP/1.1 200 OK
-                    Content-Length: 529
-                    Content-Type: application/json
-                    Date: Wed, 19 Aug 2026 07:08:55 GMT
-                    Server: uvicorn
-                    
-                    {"capabilities":{},"defaultInputModes":["text"],"defaultOutputModes":["tex...
-Forms             : {}
-Headers           : {[Content-Length, 529], [Content-Type, application/json], [Date, Wed, 19 Aug 2026 07:08:55 
-                    GMT], [Server, uvicorn]}
-Images            : {}
-InputFields       : {}
-Links             : {}
-ParsedHtml        : mshtml.HTMLDocumentClass
-RawContentLength  : 529
+**Task ID:**
+62a24b2c-5713-4f23-8817-c11813df981d
 
-----------------------------------------------------------------------------------------
+**Final state:**
+completed
 
-A2A starter:
-StatusCode        : 200
-StatusDescription : OK
-Content           : {"capabilities":{"streaming":false},"defaultInputModes":["text/
-                    plain"],"defaultOutputModes":["text/plain"],"description":"A 
-                    minimal A2A agent used as a starting point. Replace its skill 
-                    and logic with...
-RawContent        : HTTP/1.1 200 OK
-                    Content-Length: 519
-                    Content-Type: application/json
-                    Date: Wed, 19 Aug 2026 07:11:53 GMT
-                    Server: uvicorn
-                    
-                    {"capabilities":{"streaming":false},"defaultInputModes":["text/
-                    plain"],"de...
-Forms             : {}
-Headers           : {[Content-Length, 519], [Content-Type, application/json], 
-                    [Date, Wed, 19 Aug 2026 07:11:53 GMT], [Server, uvicorn]}
-Images            : {}
-InputFields       : {}
-Links             : {}
-ParsedHtml        : mshtml.HTMLDocumentClass
-RawContentLength  : 519
+**Done:**
+- Created a second A2A agent for material extraction.
+- Started the extractor agent on port 9002.
+- Published an Agent Card with the `extract_material` skill.
+- Modified the crawler agent to discover the extractor through its Agent Card.
+- The crawler handed the Crawl4AI Markdown to the extractor using A2A.
+- The extractor received the Markdown and returned an A2A Artifact.
+
+**Test URL:**
+https://en.wikipedia.org/wiki/Aluminium
+
+**Result:**
+Extractor Agent received the material page.
+Markdown length: 358947 characters.
+
+**Still unclear:**
+- How A2A handles task updates internally.
+- How Artifact Parts are represented.
+
+**Time:** ~ 1 day
 
 -------------------------------------------------------------------------------------
+
+## Part 8 – Work Completed
+
+* Updated the extractor.py file.
+* Created a Material model using **Pydantic**.
+* Added material details such as:
+
+  * Material name
+  * Density
+  * Tensile strength
+* Made some fields optional to handle missing data.
+* Used **Ollama AsyncClient** to connect with the local LLM.
+* Implemented asynchronous processing for material extraction.
+* Converted the extracted information into a structured format.
+* Used Pydantic validation to make the output more organized and reliable.
+* Tested the updated code.
+* Learned how **Pydantic** and **AsyncClient** can be used together for structured data extraction.
+
+### Status
+
+* **Part 8 Completed Successfully.**

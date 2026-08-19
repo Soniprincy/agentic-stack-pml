@@ -67,7 +67,7 @@ Carbon content has a strong influence on room temperature strength and thus the 
   2. [Data sheet on SAE 304 stainless steel](http://www.makeitfrom.com/material-data/?for=AISI-304-SUS304-1.4301-S30400-Stainless-Steel) [Archived](https://web.archive.org/web/20120723220637/http://www.makeitfrom.com/material-data/?for=AISI-304-SUS304-1.4301-S30400-Stainless-Steel) 2012-07-23 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
   3. ["Archived copy"](https://www.flightglobal.com/pdfarchive/view/1937/1937%20-%201048.html). [Archived](https://web.archive.org/web/20160813193026/https://www.flightglobal.com/pdfarchive/view/1937/1937%20-%201048.html) from the original on 2016-08-13. Retrieved 2016-06-20.: CS1 maint: archived copy as title ([link](https://en.wikipedia.org/wiki/Category:CS1_maint:_archived_copy_as_title "Category:CS1 maint: archived copy as title"))
   4. ["Stainless steel grades listed in the international standard ISO 15510:2010 Comparative designations of grades with similar composition from other important standards. (listed by type of steel structure and by increasing intermediate 3-digits code of the ISO name)"](https://www.worldstainless.org/media/um0fv1ua/stainless-steel-grades-listed-in-the-international-standard-iso-155102010.pdf) (PDF). _International Stainless Steel Forum_. Retrieved 10 March 2023.
-  5. ["Stainless Steel Fasteners"](https://web.archive.org/web/20070929001157/http://www.assda.asn.au/asp/index.asp?pgid=18732). Australian Stainless Steel Development Association. Archived from [the original](http://www.assda.asn.au/asp/index.asp?pgid=18732) on 2007-09-29. Retrieved 2007-08-13.
+  5. [Jump up to: 1](https://en.wikipedia.org/wiki/SAE_304_stainless_steel#cite_ref-assda-Stainless_Steel_Fasteners_5-0) ["Stainless Steel Fasteners"](https://web.archive.org/web/20070929001157/http://www.assda.asn.au/asp/index.asp?pgid=18732). Australian Stainless Steel Development Association. Archived from [the original](http://www.assda.asn.au/asp/index.asp?pgid=18732) on 2007-09-29. Retrieved 2007-08-13.
   6. ["X5CrNi18-10 | 1.4301 – learn more"](https://www.thyssenkrupp-materials-processing-europe.com/en/stainless-steel/austenitic-steel/x5crni18-10-or-1.4301). _Materials Processing Europe_.
   7. [AISI SAE 304 Stainless Steel Properties](https://www.theworldmaterial.com/type-304-grade-stainless-steel/) [Archived](https://web.archive.org/web/20200820200620/https://www.theworldmaterial.com/type-304-grade-stainless-steel/) 2020-08-20 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine "Wayback Machine")
   8. _MIL-HDBK-5J_. United States Department of Defense. 31 January 2003. p.2-222.
@@ -80,7 +80,7 @@ Carbon content has a strong influence on room temperature strength and thus the 
   15. ["Easily distinguishing tips between 304, 304H and 304L"](http://www.sino-alloy.com/blog/distinguish-304-304h-304l.html). Younglee Metal Products Co. September 1, 2017. [Archived](https://web.archive.org/web/20180411181832/http://www.sino-alloy.com/blog/distinguish-304-304h-304l.html) from the original on April 11, 2018. Retrieved 5 December 2024.
 
   
-|   |  
+|  hide  |  
 | --- |  
 | Organizations  | 
   * [Association of Licensed Automobile Manufacturers](https://en.wikipedia.org/wiki/Association_of_Licensed_Automobile_Manufacturers "Association of Licensed Automobile Manufacturers")
