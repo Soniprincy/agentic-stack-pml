@@ -42,13 +42,13 @@ CONFIG = CrawlerRunConfig(
 )
 
 
-async def crawl_and_save(crawler: AsyncWebCrawler, name: str, url: str) -> None:
+async def crawl_and_save(crawler: AsyncWebCrawler, name: str, url: str) -> tuple[str, str]:
     result = await crawler.arun(url, config=CONFIG)
 
     raw = result.markdown.raw_markdown or ""
     fit = result.markdown.fit_markdown or ""
 
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    RAW_DIR.mkdir(parents=True, exist_ok=True) # parent:create missing folder is not exist, exist_ok: no error when folder already present
     FIT_DIR.mkdir(parents=True, exist_ok=True)
 
     raw_path = RAW_DIR / f"{name}.md"
@@ -58,6 +58,19 @@ async def crawl_and_save(crawler: AsyncWebCrawler, name: str, url: str) -> None:
     fit_path.write_text(fit, encoding="utf-8")
 
     print(f"Saved raw: {len(raw)} | fit: {len(fit)}")
+    return raw, fit
+
+################################### for part 7 ##################################################
+
+async def crawl_page(url: str) -> str:
+    """Crawl a single URL for the A2A agent (Part 7) — reuses crawl_and_save
+    so the exact same CONFIG and crawl call is used everywhere in this file."""
+    slug = re.sub(r"[^a-z0-9]+", "_", url.lower()).strip("_")[:50] or "a2a_request"
+    async with AsyncWebCrawler() as crawler:
+        raw, fit = await crawl_and_save(crawler, slug, url)
+        return fit or raw
+
+#################################################################################################
 
 
 async def main():

@@ -80,3 +80,58 @@ Added a third validation in check: is tensile_strength_mpa present and under 10,
 - Attempt 1: model returned density_g_cm3 = bad value → check failed: 
 - Attempt 2: model returned density_g_cm3 = correct value → check passed.
 
+## Part 7 — A2A: agents talking to each other
+
+**Done** i built a working agent against the real SDK for crawler page that princt 1-5 steps that happen before having the reference sample. then i clone reference repo to a2a_agent folder different from matscout.
+
+-------------------------------------------------------------------------------------------
+
+Matscout Crawler Agent:
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"capabilities":{},"defaultInputModes":["text"],"defaultOutputModes":["text"],"description"
+                    :"Crawls material data pages and returns clean markdown.","name":"MatScout Crawler 
+                    Agent","preferredTransport...
+RawContent        : HTTP/1.1 200 OK
+                    Content-Length: 529
+                    Content-Type: application/json
+                    Date: Wed, 19 Aug 2026 07:08:55 GMT
+                    Server: uvicorn
+                    
+                    {"capabilities":{},"defaultInputModes":["text"],"defaultOutputModes":["tex...
+Forms             : {}
+Headers           : {[Content-Length, 529], [Content-Type, application/json], [Date, Wed, 19 Aug 2026 07:08:55 
+                    GMT], [Server, uvicorn]}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 529
+
+----------------------------------------------------------------------------------------
+
+A2A starter:
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"capabilities":{"streaming":false},"defaultInputModes":["text/
+                    plain"],"defaultOutputModes":["text/plain"],"description":"A 
+                    minimal A2A agent used as a starting point. Replace its skill 
+                    and logic with...
+RawContent        : HTTP/1.1 200 OK
+                    Content-Length: 519
+                    Content-Type: application/json
+                    Date: Wed, 19 Aug 2026 07:11:53 GMT
+                    Server: uvicorn
+                    
+                    {"capabilities":{"streaming":false},"defaultInputModes":["text/
+                    plain"],"de...
+Forms             : {}
+Headers           : {[Content-Length, 519], [Content-Type, application/json], 
+                    [Date, Wed, 19 Aug 2026 07:11:53 GMT], [Server, uvicorn]}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 519
+
+-------------------------------------------------------------------------------------
