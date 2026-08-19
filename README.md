@@ -97,4 +97,40 @@ created extract.py file
 
  uv run python -m matscout.graph_pipeline https://en.wikipedia.org/wiki/Titanium
 
+########################### Part 7 #####################################
+
+---------------------------------------------------------------------------------------------------------
+
+pip install fastapi uvicorn
+
+pip install requests
+
+uv sync
+
+uv add crawl4ai
+
+uv run crawl4ai-setup
+
+uv run crawl4ai-doctor
+
+uv run python server.py  # 1st terminal
+
+uv run python client.py  # 2nd terminal
+
+after extension:
+
+uv run python server.py
+
+uv run python extractor_server.py
+
+uv run python client.py
+
+######################### Part 8 #####################################
+
+uv run python extractor_server.pu
+
+uv run python server.py
+
+uv run uvicorn main:app --reload --port 8000             # then open http://127.0.0.1:8000
+
 
