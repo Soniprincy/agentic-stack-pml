@@ -93,6 +93,8 @@ created extract.py file
 
  create a file test_retry.py
 
+ uv run python -m matscout.test_retry
+
  uv run python -m matscout.graph_pipeline https://en.wikipedia.org/wiki/Titanium
 
 
