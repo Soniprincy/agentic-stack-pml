@@ -72,3 +72,29 @@ created extract.py file
  uv run python -m matscout.crawl
 
  uv run python -m matscout.compare
+
+ ######################### Part 5 #####################################
+
+ ------------------------------------------------------------------------------------------------------
+
+ create pipeline.py
+
+ create test_pipeline.py
+
+ uv run python matscout.pipeline https://en.wikipedia.org/wiki/Titanium
+
+ uv run python -m matscout.test_pipeline
+
+ ######################### Part 6 #####################################
+
+ -------------------------------------------------------------------------------------------------------
+
+ create a file ghaph_pipeline.py
+
+ create a file test_retry.py
+
+ uv run python -m matscout.test_retry
+
+ uv run python -m matscout.graph_pipeline https://en.wikipedia.org/wiki/Titanium
+
+
