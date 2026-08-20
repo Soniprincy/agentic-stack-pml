@@ -16,10 +16,10 @@ just installing it with uv — it installs a browser in the background.
 ## Part 2 — Python + local model
 
 **Done:** Wrote ask.py to send a question to Ollama and print the answer.
-Did it two ways — first using the `ollama` package, then again using
-`httpx` to call the API directly. Both work and give a proper answer.
+Did it two ways — first using the ollama package, then again using
+httpx to call the API directly. Both work and give a proper answer.
 
-**Learned:** The `ollama` package is really just a shortcut — underneath,
+**Learned:** The ollama package is really just a shortcut — underneath,
 it's sending the same kind of request that httpx sends manually. usually larger model tales time to execute but give much deeper and better answer than smaller model, we can se some repetitions and basic answers in small model. as i run ollama list, i can see 3 models 8b, 3b and 4b.
 
 **Time:** ~1h
@@ -28,7 +28,7 @@ it's sending the same kind of request that httpx sends manually. usually larger 
 ## Part 3 — Structured output
 
 **Done:** Made a Material class using Pydantic (name, density, tensile
-strength, source URL). Sent this schema to Ollama using `format=`, which
+strength, source URL). Sent this schema to Ollama using format=, which
 forces the model to reply in that exact JSON shape. Parsed the reply with
 Pydantic and got a clean object back. Tested it on 5 paragraphs about
 different materials. I tested my sanity_check() by giving the model a made-up
@@ -88,7 +88,7 @@ Added a third validation in check: is tensile_strength_mpa present and under 10,
 - Started from the provided a2a-starter repository.
 - Converted GreetingAgent into MaterialCrawlerAgent.
 - Added Crawl4AI to crawl Wikipedia material pages.
-- Added `crawl_material_page` to the Agent Card.
+- Added crawl_material_page to the Agent Card.
 - Connected the crawler through MaterialCrawlerExecutor.
 - Client successfully completed Discover → Check → Ask → Track → Collect.
 - Received the crawled Wikipedia content as an A2A Artifact.
@@ -102,7 +102,7 @@ completed
 **Done:**
 - Created a second A2A agent for material extraction.
 - Started the extractor agent on port 9002.
-- Published an Agent Card with the `extract_material` skill.
+- Published an Agent Card with the extract_material skill.
 - Modified the crawler agent to discover the extractor through its Agent Card.
 - The crawler handed the Crawl4AI Markdown to the extractor using A2A.
 - The extractor received the Markdown and returned an A2A Artifact.
